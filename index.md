@@ -12,14 +12,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - Other features useful for debugging and analyzing software.
 
 # Changelog
-**ProcessZ - 1.0**
+ProcessZ - 1.0
 
 Modified process hacker with bypass;
 Working with XIGNCODE Anti Cheat and others.
 
 -----
 
-**Information:**
+Information:
 
 This modification was created with a focus on cheat developers with games that use XIGNCODE. But we are working for other anti cheats, so far we have only tested on XIGNCODE, there may be other cheats that ProcessZ works.
 
