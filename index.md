@@ -1,9 +1,5 @@
 ## Welcome to ProcessZ Page
 
-You can use the [editor on GitHub](https://github.com/MarshallSCPT/ProcessZ/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -14,6 +10,20 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - Detailed system information and graphs;
 - Views and edits services;
 - Other features useful for debugging and analyzing software.
+
+# Changelog
+**ProcessZ - 1.0**
+
+Modified process hacker with bypass;
+Working with XIGNCODE Anti Cheat and others.
+
+-----
+
+**Information:**
+
+This modification was created with a focus on cheat developers with games that use XIGNCODE. But we are working for other anti cheats, so far we have only tested on XIGNCODE, there may be other cheats that ProcessZ works.
+
+The program may have some instabilities, as this version was slightly adapted to work on Windows 10.
 ```
 
-For more details see [ProcessZ Repo.](https://github.com/MarshallSCPT/ProcessZ).
+For more details see [ProcessZ Repo](https://github.com/MarshallSCPT/ProcessZ).
