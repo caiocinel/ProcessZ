@@ -7,3 +7,4 @@
 * Detailed system information and graphs;
 * Views and edits services;
 * Other features useful for debugging and analyzing software.
+ 
